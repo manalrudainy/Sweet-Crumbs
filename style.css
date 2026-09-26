@@ -144,6 +144,26 @@ th {
 }
 
 
+.qr-section{
+	text-align:center;
+	padding:30px;
+}
+
+
+.qr-code{
+	width:100px;
+	height:250px;
+	margin-top:10;
+	object-fit:cover;
+}
+
+
+
+
+
+
+
+
 /* FOOTER */
 
 footer {
