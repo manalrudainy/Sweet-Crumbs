@@ -151,10 +151,11 @@ th {
 
 
 .qr-code{
-	width:100px;
-	height:250px;
-	margin-top:10;
-	object-fit:cover;
+	width: 200px;
+	height: auto;
+	max-width: none
+	object fit: fill;
+	margin:20px auto;
 }
 
 
